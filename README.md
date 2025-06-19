@@ -1,7 +1,7 @@
-# Task-3---Linear-regression
+# Linear-regression
 Linear Regression
 
-# 📊 Task 3: Simple and Multiple Linear Regression
+# 📊 Simple and Multiple Linear Regression
 
 ## 🎯 Objective
 The objective of this task is to **implement and understand** both simple and multiple linear regression models using the `scikit-learn` library. The task includes data preprocessing, model training, evaluation, and interpretation of results.
